@@ -1,0 +1,11 @@
+diff a/c.html b/c.html	(rejected hunks)
+@@ -12,7 +12,7 @@
+ </head>
+ <body>
+ <div>
+-    <a id="a-test" href="https://www.baidu.com">C Page</a>
++    <a id="a-test" href="https://www.baidu.com">hello C Page</a>
+ </div>
+ </body>
+ </html>
+\ No newline at end of file
